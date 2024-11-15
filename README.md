@@ -1,4 +1,4 @@
-# Dynamic Box Fill Level Detection
+# Dynamic Box Fill Level Measuring
 
 A depth sensing application for measuring box fill levels using OAK-D camera. This project was inspired by the spatial calculation concepts from Luxonis' DepthAI examples.
 
